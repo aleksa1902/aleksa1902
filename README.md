@@ -4,8 +4,8 @@
 
 About Me :
 
-I am a final year student at the University of Belgrade, I am studying software engineering and I am looking for a job.
-- 🔭 I’m currently working on my final thesis.
+I am I am a master's student at the University of Belgrade, I am studying biomedical and ecological engineering.
+- 🔭 I’m currently working on projects for my company.
 - ⚡ A big fan of series, movies and books. I love watching basketball (and playing it, of course) and Formula 1. 
 - 😄 Winter is comming.
 - 📫 How to reach me: &nbsp; [![LinkedIn](https://img.shields.io/badge/-aleksa1902-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksa1902) 
